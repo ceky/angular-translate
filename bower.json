@@ -1,8 +1,8 @@
 {
   "author": "Pascal Precht",
-  "name": "angular-translate",
+  "name": "angular-translate-ceky",
   "description": "A translation module for AngularJS",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "homepage": "http://github.com/PascalPrecht/angular-translate",
   "repository": {
     "type": "git",
